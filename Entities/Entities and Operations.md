@@ -1,4 +1,4 @@
-*Entities:
+**Entities:**
 Employee: 
 	EmpId, name, address, email, contact number, Hiredate, Manager Id, salary, department id, job
 	
@@ -15,7 +15,7 @@ Relational:
 	Employee Id, Manager id, Department ID, Project Id, 
 
 
-*Operations:
+**Operations:**
 
 Insert Employees (Hire)
 Update Employees Details
