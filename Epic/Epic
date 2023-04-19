@@ -21,3 +21,6 @@ Given I am able to loogged into the EMS, I am able to search and see the project
 
 As a Manager, I am able to assign the projects to the employees.
 Given I am able to logged into the EMS, I am able to assign projects to the group of employees.
+
+As a HR, I want to edit database where i can add or update employee details
+Given I am able to logged into the EMS,when I select edit option from profile, then i whould able to add or update the employee details.
